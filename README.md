@@ -2,6 +2,9 @@
 
 > Servlet that act as a reverse proxy.
 
+The project is hosted in maven central.
+[here](http://search.maven.org/#search%7Cga%7C1%7Cproxilet) you'll find a quick copy/paste for the dependency.
+
 Based on ProxiServlet from Jason Edwards, available under the Apache Licence V2
 http://edwardstx.net/wiki/Wiki.jsp?page=HttpProxyServlet
 
