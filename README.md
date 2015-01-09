@@ -2,6 +2,8 @@
 
 > Servlet that act as a reverse proxy.
 
+[![Build Status](https://travis-ci.org/eskatos/proxilet.svg)](https://travis-ci.org/eskatos/proxilet)
+
 The project is hosted in maven central.
 [here](http://search.maven.org/#search%7Cga%7C1%7Cproxilet) you'll find a quick copy/paste for the dependency.
 
